@@ -1,11 +1,5 @@
-Certainly! Here's a README file tailored to your project that you can upload to GitHub:
-
----
 
 # Firebase Contact App
-
-
-Sure, here's how you could describe each feature briefly:
 
 Firebase Contact App
 The Firebase Contact App is a simple application for managing contacts using Firebase as the backend database.
